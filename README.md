@@ -15,5 +15,5 @@
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></img>
   <img height="25" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/216/thumb/apollo-seeklogo.com_%281%29.png"></img>
   <img height="25" src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/q1cwqhahz7jbtfzalznd"></img>   
-  <img height="25" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/jest.png?itok=dI0IDX4S"></img>    
+  <img height="25" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png"></img>    
 </p>
