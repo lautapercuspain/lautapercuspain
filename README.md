@@ -3,7 +3,7 @@
 - 👨🏻‍💻 I'm Lautaro (Lau for short), passionate about technology and FrontEnd.
 - 📱 I’ve created a healthcare mobile App targeted for the area where I'm currently living, but applicable in other places as well.
 - 👨‍👩‍👧‍👦 I like collaborating with open source projects e.g (<https://github.com/hasura/graphql-engine>).
-- 📚 I love learning new things every day and talk with people about different approaches to solve a problem.
+- 📚 I love learning new things every day and talk with people about different approaches to solve problems.
 - 📫 How to reach me? Via Linkedin at <https://linkedin.com/in/lautarogruss> or via email at <lautarogruss@gmail.com>
 
 ## 📚💻 Technologies I work with:
