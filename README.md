@@ -6,8 +6,9 @@
 - 📚 I love learning new things every day and talk with people about different approaches to solve problems.
 - 📫 How to reach me? Via Linkedin at <https://linkedin.com/in/lautarogruss> or via email at <lautarogruss@gmail.com>
 
-### 📚💻 Technologies I work with:
+
 <div style="text-align:center">
+  ### Technologies I work with:
   <img alt="React" title="Next JS" height="25" src="https://vercel.com/static/topics/icons/next.svg"></img>
   <img alt="React" title="React JS" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></img>
   <img alt="NODE" title="NODE JS" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></img>
