@@ -8,7 +8,7 @@
 
 
 <div style="text-align:center">
-  ### Technologies I work with:
+  <p><strong> Technologies I work with: </strong></p>
   <img alt="React" title="Next JS" height="25" src="https://vercel.com/static/topics/icons/next.svg"></img>
   <img alt="React" title="React JS" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></img>
   <img alt="NODE" title="NODE JS" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></img>
