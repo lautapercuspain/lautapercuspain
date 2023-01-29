@@ -7,8 +7,9 @@
 - 📫 How to reach me? Via Linkedin at <https://linkedin.com/in/lautarogruss> or via email at <lautarogruss@gmail.com>
 
 
-<div style="text-align:center">
-  <p><strong> Technologies I work with: </strong></p>
+<div class="text-center">     
+
+  <p>Technologies I work with: 
   <img alt="React" title="Next JS" height="25" src="https://vercel.com/static/topics/icons/next.svg"></img>
   <img alt="React" title="React JS" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></img>
   <img alt="NODE" title="NODE JS" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></img>
@@ -19,4 +20,5 @@
   <img alt="Cypress" title="Cypress" height="25" src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/q1cwqhahz7jbtfzalznd"></img>   
   <img alt="Jest" title="Jest" height="25" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png"></img>   
   <img alt="Hasura" title="Hasura.io" height="25" src="https://yt3.ggpht.com/ytc/AAUvwnhVLm10ggR28uX7fr4ieZ_o3L1jSK8AMLmIOqo0Og=s176-c-k-c0x00ffffff-no-rj"></img>   
+</p>
 </div>
