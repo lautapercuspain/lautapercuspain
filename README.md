@@ -1,6 +1,6 @@
 ### Hi there 👋. 
 
-- 👨🏻‍💻 I'm Lautaro, passionate about technology and FrontEnd.
+- 👨🏻‍💻 I'm Lautaro, passionate about the Tech world.
 - 📱 I’ve created a healthcare mobile App targeted for the area where I'm currently living, but applicable in other places as well.
 - 👨‍👩‍👧‍👦 I like collaborating with open source projects e.g (<https://github.com/hasura/graphql-engine>).
 - 📚 I love learning new things every day and talk with people about different approaches to solve problems.
