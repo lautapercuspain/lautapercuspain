@@ -4,12 +4,11 @@
 - 📱 I’ve created a healthcare mobile App targeted for the area where I'm currently living, but applicable in other places as well.
 - 👨‍👩‍👧‍👦 I usually collaborate with open source projects. I've collaborated with Hasura (graphQl), Vercel (ai) and Chakra-ui
 - 📚 I love learning new things every day and talk with people about different approaches to solve problems.
-- 📫 How to reach me? Via Linkedin at <https://linkedin.com/in/lautarogruss> or via email at <lautarogruss@gmail.com>
+- 📫 You can reach me on LinkedIn <https://linkedin.com/in/lautarogruss> or directly via email at <lautarogruss@gmail.com>
 
 
 
 ### Technologies I work with: 
-
 
 <div>
   <img alt="React" title="Next JS" height="25" src="https://vercel.com/static/topics/icons/next.svg"></img>
