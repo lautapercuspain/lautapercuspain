@@ -1,4 +1,4 @@
-### Hi there 👋. 
+
 
 - 👨🏻‍💻 I'm Lautaro, passionate about the Tech world.
 - 📱 I’ve created a healthcare mobile App targeted for the area where I'm currently living, but applicable in other places as well.
