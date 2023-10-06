@@ -8,6 +8,14 @@
 
 
 
+
+
+
+
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lautapercuspain&layout=compact&theme=blue-green)
+
+
+
 ### Technologies I work with: 
 
 <div>
