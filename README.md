@@ -5,6 +5,7 @@
 - 👨‍👩‍👧‍👦 I usually collaborate with open source projects. I've collaborated with Hasura (graphQl), Vercel (ai) and Chakra-ui
 - 📚 I love learning new things every day and talk with people about different approaches to solve problems.
 - 📫 You can reach me on LinkedIn <https://linkedin.com/in/lautarogruss> or directly via email at <lautarogruss@gmail.com>
+- 🚀 Find more projects where I've created impact: https://www.lautarogruss.com
 
 ### Some words about my experience
 
