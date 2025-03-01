@@ -1,11 +1,11 @@
-### Hello World 🌎
+### Hello AI World 🌎
 
-- 👨🏻‍💻 I'm Lautaro, passionate about the Tech world.
-- 📱 I’ve created a healthcare mobile App targeted for the area where I'm currently living, but applicable in other places as well.
-- 👨‍👩‍👧‍👦 I usually collaborate with open source projects. I've collaborated with Hasura (graphQl), Vercel (ai) and Chakra-ui
-- 📚 I love learning new things every day and talk with people about different approaches to solve problems.
-- 📫 You can reach me on LinkedIn <https://linkedin.com/in/lautarogruss> or directly via email at <lautarogruss@gmail.com>
-- 🚀 Find more projects where I've created impact: https://www.lautarogruss.com
+	👨🏻‍💻 Hey, I’m Lautaro! Passionate about cutting-edge tech, AI, and building scalable digital solutions.
+	📱 Built a healthcare mobile app designed for my local area, with potential for broader applications.
+	👨‍👩‍👧‍👦 Active open-source contributor—I’ve collaborated on projects like Hasura (GraphQL), Vercel (AI), and Chakra UI.
+	📚 Lifelong learner & problem solver—I love exploring new technologies and discussing different approaches to engineering challenges.
+	📫 Let’s connect! Reach me on LinkedIn or via email at lautarogruss@gmail.com.
+	🚀 Explore my work & impact: lautarogruss.com
 
 ### Some words about my experience
 
