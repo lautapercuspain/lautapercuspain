@@ -30,5 +30,5 @@ As a Tech Lead & Architect, I’ve led teams and designed systems in AI, eCommer
   <img  alt="Apollo" title="Apollo" height="25" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/216/thumb/apollo-seeklogo.com_%281%29.png"></img>
   <img alt="Cypress" title="Cypress" height="25" src="https://www.cypress.io/cypress_logo_social.png"></img>   
   <img alt="Jest" title="Jest" height="25" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png"></img>   
-  <img alt="Hasura" title="Hasura.io" height="25" src="https://yt3.ggpht.com/ytc/AAUvwnhVLm10ggR28uX7fr4ieZ_o3L1jSK8AMLmIOqo0Og=s176-c-k-c0x00ffffff-no-rj"></img>   
+  <img alt="Hasura" title="Hasura.io" height="25" src="https://res.cloudinary.com/dh8fp23nd/image/upload/v1686659126/website%20v3/hasura-primary_y9cdnn.svg"></img>   
 </div>
