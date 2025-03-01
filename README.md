@@ -9,7 +9,11 @@
 
 ### Some words about my experience
 
-I'm a Full-Stack Developer with 15+ years of expertise in Node.js, JavaScript, React, and React Native. Passionate about crafting seamless user experiences and solving complex tech challenges. Experienced Tech Lead and Architect in AI, eCommerce, and CMS solutions. Proficient in cutting-edge tools like Next.js, AWS, and Contentful. DevOps enthusiast with a knack for CI/CD pipelines and mentorship. Check out my code contributions and projects to explore my journey in tech innovation. Let's collaborate and create something amazing! 💻
+I’m a Full-Stack Developer with 15+ years of experience building scalable, high-performance applications using Node.js, JavaScript, React, and React Native. I specialize in crafting seamless user experiences and solving complex engineering challenges.
+
+As a Tech Lead & Architect, I’ve led teams and designed systems in AI, eCommerce, and CMS solutions, leveraging modern tools like Next.js, AWS, and Contentful. I’m also passionate about DevOps, CI/CD automation, and mentoring teams to drive engineering excellence.
+
+🚀 Check out my code contributions & projects to see my impact in tech innovation. Let’s collaborate and build something amazing! 💻
 
 
 
